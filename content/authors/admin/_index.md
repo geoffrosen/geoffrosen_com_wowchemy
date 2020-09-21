@@ -62,8 +62,8 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-[]
+# user_groups:
+
 ---
 
 I'm a current urology resident at the University of Missouri in Columbia, MO. I am originally from Beaverton, OR then went to college at Emory University and completed medical school at Columbia University in New York City.
