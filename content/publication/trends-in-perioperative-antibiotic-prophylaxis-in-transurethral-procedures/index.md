@@ -1,38 +1,38 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Interest in Urological Topics During the Coronavirus Disease Pandemic"
-authors: ["Geoffrey H Rosen", "Mojgan Golzy", "Katie S Murray"]
-date: 2020-11-01T23:38:56-05:00
-doi: "https://doi.org/10.1097/JU.0000000000001187"
+title: "Trends in Perioperative Antibiotic Prophylaxis in Transurethral Procedures"
+authors: ["Geoffrey H Rosen", "Katie S Murray"]
+date: 2020-07-01T23:46:53-05:00
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-20T23:38:56-05:00
+publishDate: 2020-09-20T23:46:53-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Urology"
-publication_short: "J Urol"
+publication: "European Urology Open Science"
+publication_short: "EU Open"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Journal Article"]
-categories: ["Cornavirus", "First Author", "Google Trends"]
+tags: ["Published Abstract"]
+categories: ["Poster Presentation", "First Author"]
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Free Access
-  url: https://www.auajournals.org/doi/abs/10.1097/JU.0000000000001187
+  url: https://www.eu-openscience.europeanurology.com/article/S2666-1683(20)33593-X/pdf
 #   icon_pack: fab
 #   icon: twitter
 
@@ -68,4 +68,4 @@ projects: []
 slides: ""
 ---
 
-We examine Google Trends at the outset of the coronavirus disease pandemic and find that there are significantly fewer searches for urological topics.
+We explore antibiotic prophylaxis in transurethral procedures in the HealthFacts database. This was to be presented in Amsterdam at EAU 2020, but the conference was cancelled due to Coronavirus. This was an online poster in the end.

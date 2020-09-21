@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["Journal Article"]
 categories: ["COVID-19", "Residency", "Urology", "First Author"]
 featured: false
 

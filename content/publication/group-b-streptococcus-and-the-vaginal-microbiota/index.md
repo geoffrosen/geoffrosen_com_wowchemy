@@ -24,7 +24,7 @@ publication_short: "J Inf Dis"
 # Summary. An optional shortened abstract.
 summary: "We examined the relationship between Group B <i>Streptococcus</i> (GBS) colonization and the vaginal microbiota. Findings included specific taxa (like <i>Prevotella Bivia</i>) associated with GBS colonization/non-colonization. There was not a strong relationship with overall community structure."
 
-tags: []
+tags: ["Journal Article"]
 categories: ["Microbiology", "Medical school", "First Author"]
 featured: false
 
