@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "Published Abstracts"
+title = "Replies and Editorials"
 subtitle = ""
 
 [content]
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Published Abstract"
+    tag = "Comment"
     category = ""
     publication_type = ""
     author = ""
