@@ -19,14 +19,7 @@ publication_types: ["2"]
 publication: "Journal of Infectious Diseases"
 publication_short: "J Inf Dis"
 
-abstract: "Background
-Streptococcus agalactiae (group B Streptococcus [GBS]) is an important neonatal pathogen and emerging cause of disease in adults. The major risk factor for neonatal disease is maternal vaginal colonization. However, little is known about the relationship between GBS and vaginal microbiota.
-Methods
-Vaginal lavage samples from nonpregnant women were tested for GBS, and amplicon-based sequencing targeting the 16S ribosomal RNA V3–V4 region was performed.
-Results
-Four hundred twenty-eight of 432 samples met the high-quality read threshold. There was no relationship between GBS carriage and demographic characteristics, α-diversity, or overall vaginal microbiota community state type (CST). Within the non-Lactobacillus-dominant CST IV, GBS positive status was significantly more prevalent in CST IV-A than CST IV-B. Significant clustering by GBS status was noted on principal coordinates analysis, and 18 individual taxa were found to be significantly associated with GBS carriage by linear discriminant analysis. After adjusting for race/ethnicity, 4 taxa were positively associated with GBS, and 6 were negatively associated.
-Conclusions
-Vaginal microbiota CST and α-diversity are not related to GBS status. However, specific microbial taxa are associated with colonization of this important human pathogen, highlighting a potential role for the microbiota in promotion or inhibition of GBS colonization."
+# abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: "We examined the relationship between Group B <i>Streptococcus</i> (GBS) colonization and the vaginal microbiota. Findings included specific taxa (like <i>Prevotella Bivia</i>) associated with GBS colonization/non-colonization. There was not a strong relationship with overall community structure."
