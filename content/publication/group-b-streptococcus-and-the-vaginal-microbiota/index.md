@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Group B Streptococcus and the vaginal microbiota"
-authors: ["Geoffrey Rosen"]
+authors: ["Geoffrey H Rosen", "Tara M Randis",  "Purnahamsi V Desai",  "Katherine J Sapra",  "Bing Ma", "Pawel Gajer",  "Michael S Humphrys",  "Jacques Ravel",  "Shari E Gelber",  "Adam J Ratner"]
 date: 2017-08-04T21:00:00-05:00
 doi: "https://doi.org/10.1093/infdis/jix395"
 
@@ -25,7 +25,7 @@ publication_short: "J Inf Dis"
 summary: "We examined the relationship between Group B <i>Streptococcus</i> (GBS) colonization and the vaginal microbiota. Findings included specific taxa (like <i>Prevotella Bivia</i>) associated with GBS colonization/non-colonization. There was not a strong relationship with overall community structure."
 
 tags: []
-categories: []
+categories: ["Microbiology", "Medical school"]
 featured: false
 
 # Custom links (optional).
