@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Group B Streptococcus and the vaginal microbiota"
-authors: "Geoff Rosen"
+authors: ["Geoffrey Rosen"]
 date: 2017-08-04T21:00:00-05:00
 doi: "https://doi.org/10.1093/infdis/jix395"
 
