@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://academic.oup.com/jid/article/216/6/744/4065066?guestAccessKey=a83f83be-eee6-42ae-b387-2c91984b9dad
+url_source:
 url_video:
 
 # Featured image
@@ -67,3 +67,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+We examined the relationship between Group B <i>Streptococcus</i> (GBS) colonization and the vaginal microbiota. Findings included specific taxa (like <i>Prevotella Bivia</i>) associated with GBS colonization/non-colonization. There was not a strong relationship with overall community structure.
