@@ -31,8 +31,8 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
+- name: Free Access
+  url: https://academic.oup.com/jid/article/216/6/744/4065066?guestAccessKey=a83f83be-eee6-42ae-b387-2c91984b9dad
 #   icon_pack: fab
 #   icon: twitter
 
