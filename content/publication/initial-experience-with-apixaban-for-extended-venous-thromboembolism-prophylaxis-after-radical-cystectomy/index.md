@@ -4,7 +4,7 @@
 title: "Initial Experience with Apixaban for Extended Venous Thromboembolism Prophylaxis After Radical Cystectomy"
 authors: ["Geoffrey H Rosen", "Taha Anwar", "Johar Syed", "David Weinstein", "Sandhiya Ravichandran", "Jacob Bailey", "Zachary Hamilton", "Katie S Murray"]
 date: 2021-03-15T23:38:56-05:00
-doi: "https://doi.org/10.1097/JU.0000000000001187"
+doi: "https://doi.org/10.1016/j.euf.2021.03.007"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-15T23:38:56-05:00
