@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Open Access
+- name: Free Access
   url: https://www.auajournals.org/doi/10.1097/01.JU.0000555108.45380.4a
 #   icon_pack: fab
 #   icon: twitter
