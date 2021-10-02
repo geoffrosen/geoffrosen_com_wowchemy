@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: ["Video"]
-categories: ["Video", "Urology", "Show me how", "Bedside stent"]
+categories: ["Video", "Urology", "Show me how", "Bedside stent", "Medical student first author", "Medical student", "Mentor"]
 featured: false
 
 # Custom links (optional).
