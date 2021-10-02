@@ -69,3 +69,5 @@ slides: ""
 ---
 
 Here we present a video demonstrating our procedure for bedside ureteral stent placement using a flexible scope. 
+
+Medical student, Jacob Bailey, is first author. 
