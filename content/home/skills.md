@@ -27,9 +27,9 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "running"
+  icon = "swimmer"
   icon_pack = "fas"
-  name = "Running/Fitness"
+  name = "Swimming/Fitness"
   description = ""
 
 # Uncomment to use emoji icons.
