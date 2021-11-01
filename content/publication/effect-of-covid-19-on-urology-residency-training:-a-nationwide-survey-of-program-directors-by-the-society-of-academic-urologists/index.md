@@ -40,8 +40,8 @@ links:
   icon: open-access
 - name: Editorial Comment
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001155.01
-  icon_pack: ai
-  icon: conversation
+  icon_pack: fas
+  icon: comment
 #   icon_pack: fab
 #   icon: twitter
 

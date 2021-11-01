@@ -38,14 +38,12 @@ links:
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001089
   icon_pack: ai
   icon: open-access
-- name: Free Access
+- name: Our Reply
   url: https://www.auajournals.org/doi/full/10.1097/JU.0000000000001192
-  icon_pack: ai
-  icon: open-access
+  icon_pack: fas
+  icon: comment
 - name: Author Reply (Free Access)
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001193
-  icon_pack: ai
-  icon: open-access
   icon_pack: fas
   icon: comment
 #   icon_pack: fab

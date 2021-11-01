@@ -33,6 +33,8 @@ featured: false
 links:
 - name: Free Access
   url: https://www.eu-openscience.europeanurology.com/article/S2666-1683(20)33593-X/pdf
+  icon_pack: ai
+  icon: open-access
 #   icon_pack: fab
 #   icon: twitter
 

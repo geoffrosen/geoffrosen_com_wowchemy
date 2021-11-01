@@ -4,7 +4,7 @@
 title: "Robotic Excision of A Calcified Urachal Cyst: A Video Case Report"
 authors: ["Connor P Lough", "Geoffrey H Rosen", "Katie S Murray"]
 date: 2021-03-19T00:01:44-05:00
-doi: "http://dx.doi.org/10.1016/j.urolvj.2021.100085"
+#doi: "http://dx.doi.org/10.1016/j.urolvj.2021.100085"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-19T00:01:44-05:00
@@ -31,8 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: http://dx.doi.org/10.1016/j.urolvj.2021.100085
 - name: Free Access
   url: https://www.sciencedirect.com/science/article/pii/S2590089721000086
+  icon_pack: ai
+  icon: open-access
 #   icon_pack: fab
 #   icon: twitter
 

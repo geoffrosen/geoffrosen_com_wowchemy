@@ -4,7 +4,7 @@
 title: "Show Me How Video: Straight-Up Approach to Bedside Ureteral Stents"
 authors: ["Jacob Bailey", "Geoffrey H Rosen", "Katie S Murray"]
 date: 2021-07-14T00:01:44-05:00
-doi: "http://dx.doi.org/10.1016/j.urology.2021.06.028"
+#doi: "http://dx.doi.org/10.1016/j.urology.2021.06.028"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-07-14T00:01:44-05:00
@@ -31,8 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: http://dx.doi.org/10.1016/j.urology.2021.06.028
 - name: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/34273402/
+  icon_pack: ai
+  icon: pubmed
 #   icon_pack: fab
 #   icon: twitter
 

@@ -4,7 +4,7 @@
 title: "Robotic Excision of Recurrent Renal Cell Carcinoma Inferior Vena Cava Tumor Thrombus"
 authors: ["Geoffrey H Rosen", "Paige A Hargis", "Christopher Cunningham", "Naveen Pokala"]
 date: 2020-12-29T00:01:44-05:00
-doi: "https://10.1089/cren.2020.0062"
+#doi: "https://10.1089/cren.2020.0062"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-29T00:01:44-05:00
@@ -31,8 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://10.1089/cren.2020.0062
 - name: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov/33457682/
+  icon_pack: ai
+  icon: pubmed
 #   icon_pack: fab
 #   icon: twitter
 
