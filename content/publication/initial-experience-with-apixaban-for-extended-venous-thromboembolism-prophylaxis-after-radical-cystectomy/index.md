@@ -35,8 +35,8 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/33737025/
 - name: ResearchGate / request full text
   url: https://www.researchgate.net/publication/350179804_Initial_Experience_with_Apixaban_for_Extended_Venous_Thromboembolism_Prophylaxis_After_Radical_Cystectomy?utm_source=twitter&rgutm_meta1=eHNsLWhDT0JtdUZ0WVZnQjd6UE5wZnlWL0dReUtmS093KzdrckdtdElqbXFVUFlPTjEyUzl3MXRjSGFudEtSamhEOUsyMHc3Z3FrWW5NZEFtdW9Cdkl0MUw5QT0%3D 
-#   icon_pack: fab
-#   icon: twitter
+   icon_pack: ai
+   icon: researchgate
 
 url_pdf:
 url_code:
