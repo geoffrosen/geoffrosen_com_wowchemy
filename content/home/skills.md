@@ -28,7 +28,7 @@ subtitle = ""
 
 [[feature]]
   icon = "running"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Running/Fitness"
   description = ""
 
