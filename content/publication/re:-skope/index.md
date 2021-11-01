@@ -40,12 +40,12 @@ links:
   icon: pubmed
 - name: Reply letter (Rosen, Hargis, Murray)
   url: https://pubmed.ncbi.nlm.nih.gov/34431707/
-  icon_pack: ai
-  icon: conversation
+  icon_pack: fas
+  icon: comment
 - name: Author Reply
   url: https://pubmed.ncbi.nlm.nih.gov/34431708/
-  icon_pack: ai
-  icon: conversation
+  icon_pack: fas
+  icon: comment
 #   icon_pack: fab
 #   icon: twitter
 

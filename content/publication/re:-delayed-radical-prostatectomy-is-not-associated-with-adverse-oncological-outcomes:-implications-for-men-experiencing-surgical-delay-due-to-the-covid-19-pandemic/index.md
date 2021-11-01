@@ -46,6 +46,8 @@ links:
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001193
   icon_pack: ai
   icon: open-access
+  icon_pack: fas
+  icon: comment
 #   icon_pack: fab
 #   icon: twitter
 
