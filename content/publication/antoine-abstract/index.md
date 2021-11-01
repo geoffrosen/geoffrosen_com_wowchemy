@@ -4,7 +4,7 @@
 title: "MP08-04 THE IMPACT OF TEMPERATURE AND HUMIDITY ON URINE COMPOSITION"
 authors: ["Samuel Antoine", "Geoffrey H Rosen", "Jeffrey Shaman", "Gen Li", "John Asplin", "Ojas Shah"]
 date: 2019-04-01T23:46:53-05:00
-doi: "http://dx.doi.org/10.1097/01.JU.0000555108.45380.4a"
+#doi: "http://dx.doi.org/10.1097/01.JU.0000555108.45380.4a"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-04-01T23:46:53-05:00
@@ -31,8 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: http://dx.doi.org/10.1097/01.JU.0000555108.45380.4a
 - name: Free Access
   url: https://www.auajournals.org/doi/10.1097/01.JU.0000555108.45380.4a
+  icon_pack: ai
+  icon: open-access
 #   icon_pack: fab
 #   icon: twitter
 
