@@ -22,7 +22,7 @@ subtitle = ""
 
 [[feature]]
   icon = "ambulance"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Clinical care"
   description = ""
 
