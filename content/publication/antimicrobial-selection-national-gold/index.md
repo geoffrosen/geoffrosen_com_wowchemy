@@ -4,7 +4,7 @@
 title: "Antimicrobial selection for transurethral procedures across the United States: a state-by-state antibiogram evaluation"
 authors: ["Geoffrey H Rosen", "Shubham Kanake", "Mojgan Golzy", "Elizabeth Malm-Buatsi", "Katie S Murray"]
 date: 2021-10-27T23:38:56-05:00
-doi: "https://doi.org/10.1016/j.urology.2021.10.009"
+#doi: "https://doi.org/10.1016/j.urology.2021.10.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-10-27T23:38:56-05:00
@@ -31,10 +31,14 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Free Access
-#   url: https://www.auajournals.org/doi/abs/10.1097/JU.0000000000001187
-#   icon_pack: fab
-#   icon: twitter
+links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1016/j.urology.2021.10.009
+# - name: Pubmed
+#   url: https://pubmed.ncbi.nlm.nih.gov/33737025/
+#   icon_pack: ai
+#   icon: pubmed
 
 url_pdf:
 url_code:

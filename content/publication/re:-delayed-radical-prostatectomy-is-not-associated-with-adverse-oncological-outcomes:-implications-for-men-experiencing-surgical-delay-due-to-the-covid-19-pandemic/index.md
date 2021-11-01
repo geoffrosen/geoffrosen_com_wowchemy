@@ -4,7 +4,7 @@
 title: "Re: Delayed Radical Prostatectomy is Not Associated with Adverse Oncological Outcomes: Implications for Men Experiencing Surgical Delay Due to the COVID-19 Pandemic"
 authors: ["Geoffrey H Rosen", "Mojgan Golzy", "Katie S Murray"]
 date: 2020-10-01T00:01:44-05:00
-doi: "https://doi.org/10.1097/JU.0000000000001192"
+#doi: "https://doi.org/10.1097/JU.0000000000001192"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-21T00:01:44-05:00
@@ -31,12 +31,22 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1097/JU.0000000000001192
 - name: Original Article (Free Access)
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001089
+  icon_pack: ai
+  icon: open-access
 - name: Free Access
   url: https://www.auajournals.org/doi/full/10.1097/JU.0000000000001192
+  icon_pack: ai
+  icon: open-access
 - name: Author Reply (Free Access)
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001193
+  icon_pack: ai
+  icon: open-access
+  icon: conversation
 #   icon_pack: fab
 #   icon: twitter
 

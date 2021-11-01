@@ -4,7 +4,7 @@
 title: "MP25-15 ANTIMICROBIAL SELECTION FOR TRANSURETHRAL PROCEDURE PROPHYLAXIS ACROSS THE UNITED STATES: A STATE-BY-STATE SURVEY OF ANTIBIOGRAMS"
 authors: ["Geoffrey H Rosen", "Shubham Kanake", "Mojgan Golzy", "Corbin Wright", "Elizabeth Malm-Buatsi", "Katie S Murray"]
 date: 2021-09-01T23:46:53-05:00
-doi: "http://dx.doi.org/10.1097/JU.0000000000002022.15"
+#doi: "http://dx.doi.org/10.1097/JU.0000000000002022.15"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-09-01T23:46:53-05:00
@@ -31,10 +31,14 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: http://dx.doi.org/10.1097/JU.0000000000002022.15
 - name: Free Access
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000002022.15
-#   icon_pack: fab
-#   icon: twitter
+  icon_pack: ai
+  icon: open-access
+
 
 url_pdf:
 url_code:

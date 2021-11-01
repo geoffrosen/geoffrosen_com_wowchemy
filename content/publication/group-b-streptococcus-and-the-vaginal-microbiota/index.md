@@ -4,7 +4,7 @@
 title: "Group B Streptococcus and the vaginal microbiota"
 authors: ["Geoffrey H Rosen", "Tara M Randis",  "Purnahamsi V Desai",  "Katherine J Sapra",  "Bing Ma", "Pawel Gajer",  "Michael S Humphrys",  "Jacques Ravel",  "Shari E Gelber",  "Adam J Ratner"]
 date: 2017-08-04T21:00:00-05:00
-doi: "https://doi.org/10.1093/infdis/jix395"
+#doi: "https://doi.org/10.1093/infdis/jix395"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-20T23:11:32-05:00
@@ -31,8 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1093/infdis/jix395
 - name: Free Access
   url: https://academic.oup.com/jid/article/216/6/744/4065066?guestAccessKey=a83f83be-eee6-42ae-b387-2c91984b9dad
+  icon_pack: ai
+  icon: open-access
 #   icon_pack: fab
 #   icon: twitter
 

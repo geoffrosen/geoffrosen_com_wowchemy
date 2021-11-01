@@ -4,7 +4,7 @@
 title: "Effect of COVID-19 on Urology Residency Training: A Nationwide Survey of Program Directors by the Society of Academic Urologists"
 authors: ["Geoffrey H Rosen", "Katie S Murray", "Kirsten L Greene", "Raj S Pruthi", "Lee Richstone", "Moben Mirza"]
 date: 2020-11-01T23:30:26-05:00
-doi: "https://doi.org/10.1097/JU.0000000000001155"
+#doi: "https://doi.org/10.1097/JU.0000000000001155"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-20T23:30:26-05:00
@@ -31,11 +31,17 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1097/JU.0000000000001155
 - name: Free Access
   url: https://www.auajournals.org/doi/abs/10.1097/JU.0000000000001155
-
+  icon_pack: ai
+  icon: open-access
 - name: Editorial Comment
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000001155.01
+  icon_pack: ai
+  icon: conversation
 #   icon_pack: fab
 #   icon: twitter
 
