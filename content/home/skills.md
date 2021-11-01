@@ -21,7 +21,7 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "user-md"
+  icon = "ambulance"
   icon_pack = "far"
   name = "Clinical care"
   description = ""
