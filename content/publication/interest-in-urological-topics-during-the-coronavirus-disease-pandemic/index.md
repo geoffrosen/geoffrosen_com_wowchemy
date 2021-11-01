@@ -4,7 +4,7 @@
 title: "Interest in Urological Topics During the Coronavirus Disease Pandemic"
 authors: ["Geoffrey H Rosen", "Mojgan Golzy", "Katie S Murray"]
 date: 2020-11-01T23:38:56-05:00
-doi: "https://doi.org/10.1097/JU.0000000000001187"
+#doi: "https://doi.org/10.1097/JU.0000000000001187"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-20T23:38:56-05:00
@@ -31,8 +31,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1097/JU.0000000000001187
 - name: Free Access
   url: https://www.auajournals.org/doi/abs/10.1097/JU.0000000000001187
+  icon_pack: ai
+  icon: open-access
 #   icon_pack: fab
 #   icon: twitter
 
