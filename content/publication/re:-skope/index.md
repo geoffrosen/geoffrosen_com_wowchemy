@@ -4,7 +4,7 @@
 title: "SKOPE-Study of Ketorolac vs Opioid for Pain after Endoscopy: A Double-Blinded Randomized Control Trial in Patients Undergoing Ureteroscopy. Letter"
 authors: ["Geoffrey H Rosen", "Paige Hargis", "Katie S Murray"]
 date: 2021-08-25T00:01:44-05:00
-doi: "https://doi.org/10.1097/ju.0000000000002193"
+#doi: "https://doi.org/10.1097/ju.0000000000002193"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-10-01T00:01:44-05:00
@@ -31,12 +31,21 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1097/ju.0000000000002193
 - name: Original Article
   url: https://pubmed.ncbi.nlm.nih.gov/33819072/
+  icon_pack: ai
+  icon: pubmed
 - name: Reply letter (Rosen, Hargis, Murray)
   url: https://pubmed.ncbi.nlm.nih.gov/34431707/
+  icon_pack: ai
+  icon: conversation
 - name: Author Reply
   url: https://pubmed.ncbi.nlm.nih.gov/34431708/
+  icon_pack: ai
+  icon: conversation
 #   icon_pack: fab
 #   icon: twitter
 
