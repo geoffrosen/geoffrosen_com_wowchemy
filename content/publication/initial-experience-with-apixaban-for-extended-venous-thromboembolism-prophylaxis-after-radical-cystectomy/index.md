@@ -4,7 +4,7 @@
 title: "Initial Experience with Apixaban for Extended Venous Thromboembolism Prophylaxis After Radical Cystectomy"
 authors: ["Geoffrey H Rosen", "Taha Anwar", "Johar Syed", "David Weinstein", "Sandhiya Ravichandran", "Jacob Bailey", "Zachary Hamilton", "Katie S Murray"]
 date: 2021-03-15T23:38:56-05:00
-doi: "https://doi.org/10.1016/j.euf.2021.03.007"
+#doi: "https://doi.org/10.1016/j.euf.2021.03.007"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-15T23:38:56-05:00
@@ -31,8 +31,13 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
+- icon_pack: ai
+  icon: doi
+  url: https://doi.org/10.1016/j.euf.2021.03.007
 - name: Pubmed
   url: https://pubmed.ncbi.nlm.nih.gov/33737025/
+  icon_pack: ai
+  icon: pubmed
 - name: ResearchGate / request full text
   url: https://www.researchgate.net/publication/350179804_Initial_Experience_with_Apixaban_for_Extended_Venous_Thromboembolism_Prophylaxis_After_Radical_Cystectomy?utm_source=twitter&rgutm_meta1=eHNsLWhDT0JtdUZ0WVZnQjd6UE5wZnlWL0dReUtmS093KzdrckdtdElqbXFVUFlPTjEyUzl3MXRjSGFudEtSamhEOUsyMHc3Z3FrWW5NZEFtdW9Cdkl0MUw5QT0%3D 
   icon_pack: ai
