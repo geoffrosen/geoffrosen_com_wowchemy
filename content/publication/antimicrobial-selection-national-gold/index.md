@@ -35,12 +35,18 @@ links:
 - icon_pack: ai
   icon: doi
   url: https://doi.org/10.1016/j.urology.2021.10.009
+- icon_pack: ai
+  icon: researchgate
+  name: ResearchGate / Request full text
+  url: https://www.researchgate.net/publication/355692645_Antimicrobial_selection_for_transurethral_procedures_across_the_United_States_a_state-by-state_antibiogram_evaluation
+- name: MDLinx
+  url: https://www.mdlinx.com/journal-summary/antimicrobial-selection-for-transurethral-procedures-across-the-united-states-a-state-by-state/1Ysp9nIWyA7Npa56vZJeM6
 # - name: Pubmed
 #   url: https://pubmed.ncbi.nlm.nih.gov/33737025/
 #   icon_pack: ai
 #   icon: pubmed
 
-url_pdf:
+url_pdf: https://www.researchgate.net/publication/355692645_Antimicrobial_selection_for_transurethral_procedures_across_the_United_States_a_state-by-state_antibiogram_evaluation
 url_code:
 url_dataset:
 url_poster:
