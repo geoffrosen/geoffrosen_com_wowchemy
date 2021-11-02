@@ -46,7 +46,7 @@ links:
 #   icon_pack: ai
 #   icon: pubmed
 
-url_pdf: https://www.researchgate.net/publication/355692645_Antimicrobial_selection_for_transurethral_procedures_across_the_United_States_a_state-by-state_antibiogram_evaluation
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
