@@ -42,6 +42,10 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/34431707/
   icon_pack: fas
   icon: comment
+- name: ResearchGate / Request Full Text (Our reply)
+  url: https://www.researchgate.net/publication/354136152_SKOPE-Study_of_Ketorolac_vs_Opioid_for_Pain_after_Endoscopy_A_Double-Blinded_Randomized_Control_Trial_in_Patients_Undergoing_Ureteroscopy_Letter
+  icon_pack: ai
+  icon: researchgate
 - name: Author Reply
   url: https://pubmed.ncbi.nlm.nih.gov/34431708/
   icon_pack: fas

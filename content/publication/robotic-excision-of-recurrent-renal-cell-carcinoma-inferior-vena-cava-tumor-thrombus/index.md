@@ -38,6 +38,10 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/33457682/
   icon_pack: ai
   icon: pubmed
+- name: ResearchGate / Request Full Text
+  url: https://www.researchgate.net/publication/348061791_Robotic_Excision_of_Recurrent_Renal_Cell_Carcinoma_Inferior_Vena_Cava_Tumor_Thrombus
+  icon_pack: ai
+  icon: researchgate
 #   icon_pack: fab
 #   icon: twitter
 

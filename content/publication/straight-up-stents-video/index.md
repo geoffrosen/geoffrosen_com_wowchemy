@@ -38,6 +38,10 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/34273402/
   icon_pack: ai
   icon: pubmed
+- name: ResearchGate / Request Full Text
+  url: https://www.researchgate.net/publication/353254991_Show_Me_How_Video_Straight-Up_Approach_to_Bedside_Ureteral_Stents
+  icon_pack: ai
+  icon: researchgate
 #   icon_pack: fab
 #   icon: twitter
 

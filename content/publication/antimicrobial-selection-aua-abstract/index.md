@@ -38,6 +38,10 @@ links:
   url: https://www.auajournals.org/doi/10.1097/JU.0000000000002022.15
   icon_pack: ai
   icon: open-access
+- name: ResearchGate / Request Full Text
+  url: https://www.researchgate.net/publication/354286358_MP25-15_ANTIMICROBIAL_SELECTION_FOR_TRANSURETHRAL_PROCEDURE_PROPHYLAXIS_ACROSS_THE_UNITED_STATES_A_STATE-BY-STATE_SURVEY_OF_ANTIBIOGRAMS
+  icon_pack: ai
+  icon: researchgate
 
 
 url_pdf:
