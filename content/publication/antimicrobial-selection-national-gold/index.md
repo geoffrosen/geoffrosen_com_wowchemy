@@ -35,6 +35,10 @@ links:
 - icon_pack: ai
   icon: doi
   url: https://doi.org/10.1016/j.urology.2021.10.009
+- name: Free Access (until 1/11/22)
+  url: https://authors.elsevier.com/c/1e7EnKZx3UXoT
+  icon_pack: ai
+  icon: open-access
 - icon_pack: ai
   icon: researchgate
   name: ResearchGate / Request full text
