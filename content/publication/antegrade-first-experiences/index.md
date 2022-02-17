@@ -76,4 +76,4 @@ projects: []
 slides: ""
 ---
 
-Here, we looked at optimal antimicrobial prophylaxis selection for transurethral procedures throughout the United States using a survey of antibiograms by state. 
+Here, we describe our technique for instillation of UGN-101 via nephrostomy along with early outcomes from our first eight patients treated using this method. 

@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Journal Article"]
+tags: ["Journal Article", "Cover"]
 categories: ["Antimicrobial prophylaxis", "First Author", "Microbiology"]
 featured: false
 
@@ -35,10 +35,6 @@ links:
 - icon_pack: ai
   icon: doi
   url: https://doi.org/10.1016/j.urology.2021.10.009
-- name: Free Access (until 1/11/22)
-  url: https://authors.elsevier.com/c/1e7EnKZx3UXoT
-  icon_pack: ai
-  icon: open-access
 - icon_pack: ai
   icon: researchgate
   name: ResearchGate / Request full text
@@ -83,3 +79,5 @@ slides: ""
 ---
 
 Here, we looked at optimal antimicrobial prophylaxis selection for transurethral procedures throughout the United States using a survey of antibiograms by state. 
+
+This was the cover article for Jan 2022 UROLOGY. 
