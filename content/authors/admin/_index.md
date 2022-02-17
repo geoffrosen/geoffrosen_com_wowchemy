@@ -21,6 +21,8 @@ organizations:
 bio: I'm an aspiring physician scientist currently in urology residency. My primary interests are perioperative management, opioid use, and microbiology.
 
 interests:
+- Clinical care
+- Endourology
 - Perioperative management
 - Opioid prescribing
 - Microbiology
