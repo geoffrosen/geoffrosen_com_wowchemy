@@ -43,8 +43,24 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/35130080/
   icon_pack: ai
   icon: pubmed
+- name: Editorial Comment
+  url: https://pubmed.ncbi.nlm.nih.gov/35236103/
+  icon_pack: fas
+  icon: comment
+- name: Editorial Comment
+  url: https://pubmed.ncbi.nlm.nih.gov/35236101/
+  icon_pack: fas
+  icon: comment
+- name: Editorial Comment
+  url: https://pubmed.ncbi.nlm.nih.gov/35236102/
+  icon_pack: fas
+  icon: comment
 - name: Cover (png)
   url: featured.png
+  icon_pack: fas
+  icon: book
+- name: Cover (hi-res pdf)
+  url: Jun2022CoverJU.pdf
   icon_pack: fas
   icon: book
 

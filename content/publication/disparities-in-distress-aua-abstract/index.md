@@ -1,59 +1,53 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Antimicrobial selection for transurethral procedures across the United States: a state-by-state antibiogram evaluation"
-authors: ["Geoffrey H Rosen", "Shubham Kanake", "Mojgan Golzy", "Elizabeth Malm-Buatsi", "Katie S Murray"]
-date: 2021-10-27T23:38:56-05:00
-#doi: "https://doi.org/10.1016/j.urology.2021.10.009"
+title: "MP13-19 DISPARITIES IN DISTRESS FOR PATIENTS WITH CANCER"
+authors: ["Connor Lough", "Geoffrey H Rosen", "Catherine Muzzey", "Edward Johnson",  "Katie S Murray"]
+date: 2022-05-01T23:46:53-05:00
+#doi: "http://dx.doi.org/10.1097/JU.0000000000002022.15"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-27T23:38:56-05:00
+publishDate: 2021-09-01T23:46:53-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Urology"
-publication_short: "Urol"
+publication: "Journal of Urology"
+publication_short: "JUrol"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Journal Article", "Cover"]
-categories: ["Antimicrobial prophylaxis", "First Author", "Microbiology"]
+tags: ["Published Abstract"]
+categories: ["Poster presentation", "Mentee", "Presenting author"]
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
 links:
 - icon_pack: ai
   icon: doi
-  url: https://doi.org/10.1016/j.urology.2021.10.009
-- icon_pack: ai
-  icon: researchgate
-  name: ResearchGate / Request full text
-  url: https://www.researchgate.net/publication/355692645_Antimicrobial_selection_for_transurethral_procedures_across_the_United_States_a_state-by-state_antibiogram_evaluation
-- name: MDLinx
-  url: https://www.mdlinx.com/journal-summary/antimicrobial-selection-for-transurethral-procedures-across-the-united-states-a-state-by-state/1Ysp9nIWyA7Npa56vZJeM6
-- name: Cover (png)
-  url: featured.png
-  icon_pack: fas
-  icon: book
-# - name: Pubmed
-#   url: https://pubmed.ncbi.nlm.nih.gov/33737025/
+  url: https://doi.org/10.1097/JU.0000000000002542.19
+# - name: Free Access
+#   url: https://www.auajournals.org/doi/10.1097/JU.0000000000002022.15
 #   icon_pack: ai
-#   icon: pubmed
+#   icon: open-access
+# - name: ResearchGate / Request Full Text
+#   url: https://www.researchgate.net/publication/354286358_MP25-15_ANTIMICROBIAL_SELECTION_FOR_TRANSURETHRAL_PROCEDURE_PROPHYLAXIS_ACROSS_THE_UNITED_STATES_A_STATE-BY-STATE_SURVEY_OF_ANTIBIOGRAMS
+#   icon_pack: ai
+#   icon: researchgate
+
 
 url_pdf:
 url_code:
 url_dataset:
-url_poster:
+url_poster: "disparities_poster.pdf"
 url_project:
 url_slides:
 url_source:
@@ -82,6 +76,4 @@ projects: []
 slides: ""
 ---
 
-Here, we looked at optimal antimicrobial prophylaxis selection for transurethral procedures throughout the United States using a survey of antibiograms by state. 
-
-This was the cover article for Jan 2022 UROLOGY. 
+We explore disparities in distress for patients with cancer
