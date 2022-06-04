@@ -45,7 +45,7 @@ links:
   icon: pubmed
 - name: Cover (png)
   url: featured.png
-  icon_pack: fab
+  icon_pack: fas
   icon: book
 
 url_pdf:
