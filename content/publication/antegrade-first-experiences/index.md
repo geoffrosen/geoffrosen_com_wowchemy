@@ -43,6 +43,10 @@ links:
   url: https://pubmed.ncbi.nlm.nih.gov/35130080/
   icon_pack: ai
   icon: pubmed
+- name: Cover (png)
+  url: featured.png
+  icon_pack: fab
+  icon: book
 
 url_pdf:
 url_code:
