@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Antegrade Instillation of UGN-101 (Mitomycin for Pyelocalyceal Solution) for Low-Grade Upper Tract Urothelial Carcinoma: Initial Clinical Experience"
-authors: ["Geoffrey H Rosen", "Ankita Nallani", "Catherine Muzzey", "Katie S Murray"]
+title: "Changes in Use of Oral Androgen Pathway Directed Medications during the COVID-19 Era"
+authors: ["Geoffrey H Rosen", "Benjamin J Davies", "Katie S Murray"]
 date: 2022-02-07T23:38:56-05:00
 #doi: "https://doi.org/10.1097/JU.0000000000002454"
 
@@ -16,8 +16,8 @@ publishDate: 2022-02-15T23:38:56-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Urology"
-publication_short: "J Urol"
+publication: "Journal of Urology Practice"
+publication_short: "URPR"
 
 abstract: ""
 
@@ -25,7 +25,7 @@ abstract: ""
 summary: ""
 
 tags: ["Journal Article"]
-categories: ["Upper tract urothelial carcinoma", "First Author", "Jelmyto"]
+categories: ["Big data", "First Author", "Pharmaceutical", "IQVIA"]
 featured: false
 
 # Custom links (optional).
@@ -34,40 +34,19 @@ featured: false
 links:
 - icon_pack: ai
   icon: doi
-  url: https://doi.org/10.1097/JU.0000000000002454
-- icon_pack: ai
-  icon: researchgate
-  name: ResearchGate / Request full text
-  url: https://www.researchgate.net/publication/358418468_Antegrade_Instillation_of_UGN-101_Mitomycin_for_Pyelocalyceal_Solution_for_Low-Grade_Upper_Tract_Urothelial_Carcinoma_Initial_Clinical_Experience
-- name: Pubmed
-  url: https://pubmed.ncbi.nlm.nih.gov/35130080/
-  icon_pack: ai
-  icon: pubmed
+  url: https://doi.org/10.1097/UPJ.0000000000000310
 - name: Editorial Comment
-  url: https://pubmed.ncbi.nlm.nih.gov/35236103/
+  url: https://doi.org/10.1097/UPJ.0000000000000310.01
   icon_pack: fas
   icon: comment
 - name: Editorial Comment
-  url: https://pubmed.ncbi.nlm.nih.gov/35236101/
-  icon_pack: fas
-  icon: comment
-- name: Editorial Comment
-  url: https://pubmed.ncbi.nlm.nih.gov/35236102/
+  url: https://doi.org/10.1097/UPJ.0000000000000310.02
   icon_pack: fas
   icon: comment
 - name: Reply by Authors
-  url: publication/re:-antegrade
+  url: https://doi.org/10.1097/UPJ.0000000000000310.03
   icon_pack: fas
   icon: comment
-- name: Cover (png)
-  url: featured.png
-  icon_pack: fas
-  icon: book
-- name: Cover (hi-res pdf)
-  url: Jun2022CoverJU.pdf
-  icon_pack: fas
-  icon: book
-
 
 url_pdf:
 url_code:
@@ -101,4 +80,4 @@ projects: []
 slides: ""
 ---
 
-Here, we describe our technique for instillation of UGN-101 via nephrostomy along with early outcomes from our first eight patients treated using this method. 
+In this work, we use the IQVIA data science cloud to understand how use of oral androgen pathway directed medications changed during COVID-19
