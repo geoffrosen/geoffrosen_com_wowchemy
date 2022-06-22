@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Changes in Use of Oral Androgen Pathway Directed Medications during the COVID-19 Era"
+title: "Reply by authors (Changes in Use of Oral Androgen Pathway Directed Medications during the COVID-19 Era)"
 authors: ["Geoffrey H Rosen", "Benjamin J Davies", "Katie S Murray"]
-date: 2022-06-07T23:38:56-05:00
-#doi: "https://doi.org/10.1097/JU.0000000000002454"
+date: 2022-06-01T00:01:44-05:00
+#doi: "https://doi.org/10.1097/JU.0000000000001192"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-15T23:38:56-05:00
+publishDate: 2020-09-21T00:01:44-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Urology Practice"
@@ -24,29 +24,19 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Journal Article"]
-categories: ["Big data", "First Author", "Pharmaceutical", "IQVIA"]
+tags: ["Comment"]
+categories: ["Reply", "Coronavirus", "Urology", "First Author"]
 featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
 links:
-- icon_pack: ai
-  icon: doi
-  url: https://doi.org/10.1097/UPJ.0000000000000310
-- name: Editorial Comment
-  url: https://doi.org/10.1097/UPJ.0000000000000310.01
-  icon_pack: fas
-  icon: comment
-- name: Editorial Comment
-  url: https://doi.org/10.1097/UPJ.0000000000000310.02
-  icon_pack: fas
-  icon: comment
 - name: Reply by Authors
-  url: publications/re-oral-meds
+  url: https://doi.org/10.1097/UPJ.0000000000000310.03
   icon_pack: fas
   icon: comment
+#   icon_pack: fab
+#   icon: twitter
 
 url_pdf:
 url_code:
@@ -62,7 +52,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Top"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -80,4 +70,4 @@ projects: []
 slides: ""
 ---
 
-In this work, we use the IQVIA data science cloud to understand how use of oral androgen pathway directed medications changed during COVID-19
+Author reply to editorials regarding the oral androgen pathway medications IQVIA paper

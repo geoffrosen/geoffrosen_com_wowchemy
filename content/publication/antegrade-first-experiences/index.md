@@ -56,7 +56,7 @@ links:
   icon_pack: fas
   icon: comment
 - name: Reply by Authors
-  url: publication/re:-antegrade
+  url: publication/re-antegrade
   icon_pack: fas
   icon: comment
 - name: Cover (png)

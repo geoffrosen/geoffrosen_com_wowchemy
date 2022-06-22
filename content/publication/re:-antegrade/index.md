@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Reply by authors (Antegrade Instillation of UGN-101 (Mitomycin for Pyelocalyceal Solution) for Low-Grade Upper Tract Urothelial Carcinoma: Initial Clinical Experience)"
+title: "Reply by authors (Antegrade Instillation of UGN-101 [Mitomycin for Pyelocalyceal Solution] for Low-Grade Upper Tract Urothelial Carcinoma: Initial Clinical Experience)"
 authors: ["Geoffrey H Rosen", "Ankita Nallani", "Catherine Muzzey", "Katie S Murray"]
 date: 2022-06-01T00:01:44-05:00
 #doi: "https://doi.org/10.1097/JU.0000000000001192"
