@@ -44,7 +44,7 @@ links:
   icon_pack: fas
   icon: comment
 - name: Reply by Authors
-  url: publications/re-oral-meds
+  url: publication/re-oral-meds
   icon_pack: fas
   icon: comment
 
