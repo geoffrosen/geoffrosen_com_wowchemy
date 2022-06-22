@@ -3,11 +3,11 @@
 
 title: "Reply by authors (Changes in Use of Oral Androgen Pathway Directed Medications during the COVID-19 Era)"
 authors: ["Geoffrey H Rosen", "Benjamin J Davies", "Katie S Murray"]
-date: 2022-06-01T00:01:44-05:00
+date: 2022-06-20T00:01:44-05:00
 #doi: "https://doi.org/10.1097/JU.0000000000001192"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-21T00:01:44-05:00
+publishDate: 2022-06-20T00:01:44-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
