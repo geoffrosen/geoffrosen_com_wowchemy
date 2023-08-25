@@ -101,6 +101,4 @@ projects: []
 slides: ""
 ---
 
-We looked at the effects of the Coranavirus disease pandemic on urology residency training programs a few months into the pandemic (April 1, 2020). We describe several changes and examine patterns related to Coronavirus prevalence.
 
-There is an accompanying editorial. See above.
