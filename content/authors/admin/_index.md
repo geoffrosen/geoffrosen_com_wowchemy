@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Urology Resident
+role: Staff urologist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Missouri
-  url: "https://medicine.missouri.edu/departments/surgery/divisions/urologic-surgery/residency/current-residents"
+- name: Portland VA Health Care System
+#  url: "https://medicine.missouri.edu/departments/surgery/divisions/urologic-surgery/residency/current-residents"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm an aspiring physician scientist currently in urology residency. My primary interests are perioperative management, opioid use, and microbiology.
