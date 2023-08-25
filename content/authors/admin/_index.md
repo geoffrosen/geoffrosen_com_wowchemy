@@ -68,6 +68,8 @@ email: ""
 
 ---
 
+### This page is currently undergoing updates. For full bibliography, please go to [Google Scholar](https://scholar-google-com.proxy.mul.missouri.edu/citations?user=QFmuGG8AAAAJ&hl=en)
+
 I'm a staff urologist at the Portland VA Medical Center. I am originally from Beaverton, OR then went to college at Emory University and completed medical school at Columbia University in New York City.
 
 I'm interested in research, teaching/mentoring, and clinical care. Previous projects have been in natural language processing, insect-bacterial symbiosis, and the human vaginal microbiota. Ongoing work is in several domains including opioid use and prescribing, microbiology and urology, and perioperative management.
