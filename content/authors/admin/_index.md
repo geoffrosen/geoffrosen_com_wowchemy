@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Staff urologist
+role: Staff rologist
 
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,6 @@ email: ""
 
 ---
 
-I'm a current urology resident at the University of Missouri in Columbia, MO. I am originally from Beaverton, OR then went to college at Emory University and completed medical school at Columbia University in New York City.
+I'm a staff urologist at the Portland VA Medical Center. I am originally from Beaverton, OR then went to college at Emory University and completed medical school at Columbia University in New York City.
 
 I'm interested in research, teaching/mentoring, and clinical care. Previous projects have been in natural language processing, insect-bacterial symbiosis, and the human vaginal microbiota. Ongoing work is in several domains including opioid use and prescribing, microbiology and urology, and perioperative management.
