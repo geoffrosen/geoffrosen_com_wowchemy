@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Staff rologist
+role: Staff Urologist
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
 #  url: "https://medicine.missouri.edu/departments/surgery/divisions/urologic-surgery/residency/current-residents"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an aspiring physician scientist currently in urology residency. My primary interests are perioperative management, opioid use, and microbiology.
+bio: I'm a staff urologist at VA Portland. My primary interests are perioperative management, opioid use, and microbiology.
 
 interests:
 - Clinical care
